@@ -17,7 +17,11 @@ The dataset used in this project is sourced from Kaggle and includes comprehensi
 To run the analysis, you will need:
 
 Python 3.x
+
 NumPy
+
 pandas
+
 Matplotlib
+
 Seaborn
